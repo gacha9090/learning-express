@@ -8,6 +8,7 @@ export type EbridgeType = {
   teamMate: number[];
 };
 
+// fix data
 export const EbridgeMember: EbridgeType[] = [
   {
     id: "eb1",
